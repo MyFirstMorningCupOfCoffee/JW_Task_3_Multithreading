@@ -48,6 +48,6 @@ C) Решение, при котором изменения в матрице с
 
 > FileWorker - утилитный класс, содержащий в себе статические методы для чтения файлов.
 
-> SomethingWentWrongException - класс исключения
+> SomethingWentWrongException - класс исключения.
 
 > MultythreadMatrixDemo - главный класс приложения.
